@@ -2,7 +2,7 @@
 
 **TwitterClient** is a basic twitter app to read and compose tweets from the [Twitter API](https://apps.twitter.com/).
 
-Time spent: **16.5** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
@@ -40,7 +40,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/t1DwT9I.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -50,7 +50,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2016] [Joshua Escribano]
+    Copyright 2016 Pallavi Kurhade
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
